@@ -1,0 +1,29 @@
+# Python
+venv/
+.venv/
+__pycache__/
+*.pyc
+*.pyo
+*.pyd
+*.egg-info/
+dist/
+build/
+
+# Environment — NEVER commit secrets
+.env
+.env.*
+
+# Editor/OS
+.vscode/
+.idea/
+.DS_Store
+Thumbs.db
+*.swp
+*~
+*.pyo
+venv/
+.venv/
+*.egg-info/
+dist/
+build/
+.DS_Store
